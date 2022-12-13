@@ -1,7 +1,7 @@
 https://github.com/ngocnvfx19676/ngocnvfx19676.github.io.git
 
 ```
-Assignment 03 Stater
+Assignment 02 Stater
 ├─ css
 │  ├─ font.css
 │  └─ style.css
